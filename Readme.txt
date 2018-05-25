@@ -1,6 +1,4 @@
 Name:Qilin You           
-ID:3647897461
-Date: Apr/23/2017
 Tool:  Python 2.7 | Tensorflow 1.01
 
 Usage:
